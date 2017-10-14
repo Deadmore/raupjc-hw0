@@ -1,0 +1,12 @@
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\Nulta_Domaca_Zadaca.exe.config
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\Nulta_Domaca_Zadaca.exe
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\Nulta_Domaca_Zadaca.pdb
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\obj\Debug\Nulta_Domaca_Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\obj\Debug\Nulta_Domaca_Zadaca.exe
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\obj\Debug\Nulta_Domaca_Zadaca.pdb
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\obj\Debug\Nulta_Domaca_Zadaca.csprojResolveAssemblyReference.cache
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\ClassLibrary1.pdb
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\NodaTime.dll
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\NodaTime.pdb
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\Nulta_Domaca_Zadaca\bin\Debug\NodaTime.xml

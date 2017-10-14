@@ -1,0 +1,5 @@
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\Nulta_Domaca_Zadaca\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

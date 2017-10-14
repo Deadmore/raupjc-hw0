@@ -1,8 +1,8 @@
 
 1.
-Dodali se dll i pdb file u direktoriji.
-Nece raditi,program izbaci iznimku je ne moûe naci potrebnu datoteku.
-Poslao bi sve datoteke sadrûane u bin direktoriju.
+Dodali su se dll i pdb file u direktoriji.
+Nece raditi,program izbaci iznimku je ne mo≈æe naci potrebnu datoteku.
+Poslao bi sve datoteke sadr≈æane u bin direktoriju.
 
 
 2.
